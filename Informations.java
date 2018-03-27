@@ -20,15 +20,22 @@ public class Informations {
   }
 
   public void getInfo() {
+    this autor = autorName;
   }
 
   public void showInfo() {
+    return autor;
+    return name;
+    return date;
   }
 
   public void getSimilarAutorPhotos() {
+    //search autor on google
+    // get photos
   }
 
   public void showObject() {
+
   }
 
 }
