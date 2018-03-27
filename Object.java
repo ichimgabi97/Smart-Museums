@@ -6,7 +6,7 @@ public class Object extends Smart Museums {
 
   public Integer height;
 
-  public Object type;
+  public Vector type;
 
   public String Image;
 
@@ -14,6 +14,8 @@ public class Object extends Smart Museums {
     public Vector  myInformations;
     public Vector  myInformations;
     public Vector  myGames;
+    public Vector  mySmart Museums;
+    public Vector  mySmart Museums;
 
   public void getHeight() {
   }
@@ -25,9 +27,6 @@ public class Object extends Smart Museums {
   }
 
   public void getType() {
-  }
-
-  public void GetImage() {
   }
 
 }
