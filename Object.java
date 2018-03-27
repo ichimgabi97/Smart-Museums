@@ -8,6 +8,8 @@ public class Object extends Smart Museums {
 
   public Object type;
 
+  public String Image;
+
     public Vector  myInformations;
     public Vector  myInformations;
     public Vector  myInformations;
@@ -23,6 +25,9 @@ public class Object extends Smart Museums {
   }
 
   public void getType() {
+  }
+
+  public void GetImage() {
   }
 
 }
